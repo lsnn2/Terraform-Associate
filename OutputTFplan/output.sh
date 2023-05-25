@@ -1,0 +1,1 @@
+terraofrm plan -out=planname 
